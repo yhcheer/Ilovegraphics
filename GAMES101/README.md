@@ -1,11 +1,23 @@
-# Ilovegraphics
+# GAMES101 Assignments
 
 
 
-hw0
+### Assignment 0
+
+- Learn Eigen lib
+- Base operation about Vector and Matrix
 
 
 
-hw1
+### Assignment 1
+
+- Matrix about Rotation/Scaling/Translation
+
+- Projection matrix
+-  [option] Rodrigues Rotation Formula
 
 ![hw1](Assignment1/hw1.png)
+
+
+
+### Assignment 2
