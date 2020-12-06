@@ -1,10 +1,24 @@
 # Ilovegraphics
 
-- GAMES101
+CG
 
-video https://www.bilibili.com/video/BV1X7411F744
+- [GAMES101](https://github.com/yhcheer/Ilovegraphics/tree/master/GAMES101) Intro to Computer Graphics
+- GAMES102 几何建模与处理
+- GAMES201 高级物理引擎实战指南
+- MIT 6.837
+- CS291A
 
-BBS http://games-cn.org/forums/forum/graphics-intro/
+Ray Tracing
 
-Homework page http://games-cn.org/forums/topic/allhw/
+- [Ray Tracing in One Weekend](https://github.com/yhcheer/RayTracingInOneWeekend)
+
+- Nori2
+- PBRT
+
+- mitsuba
+
+Realtime Rendering
+
+- Unity
+- UE4
 
