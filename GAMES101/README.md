@@ -1,6 +1,4 @@
-# GAMES101
-
-## Intro to Computer Graphics
+# GAMES101 Intro to Computer Graphics
 
 ### Assignment 0
 
@@ -37,7 +35,7 @@
 
 - Interpolation normal/color/tex_coords/shadingcoords
 - Phong model
-- Bump texture& Displacement texture
+- Bump / Displacement texture
 - [optional] More models
 - [optional] Bilinear Interpolation
 
@@ -46,6 +44,22 @@
 ![hw3](Assignment3/phong.png)
 
 ![hw3](Assignment3/texture.png)
+
+![hw3](Assignment3/bump.png)
+
+![hw3](Assignment3/crate.png)
+
+![hw3](Assignment3/bilinear.png)
+
+
+
+### Assignment 4
+
+- 
+
+
+
+
 
 ____
 
